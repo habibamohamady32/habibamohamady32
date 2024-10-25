@@ -1,6 +1,6 @@
 ### Hey there 👋, I'm Habiba Sayed 
 - 🔭 Currently am a senior <code><span style="background-color: #FFFF00">Computer Science student at FCIS Ain Shams University</span></code> 
-- 😄 Java Backend Developer at <code><span style="background-color: #FFFF00" ><a href="#">NI</a></span></code> 
+- 😄 Java Backend Developer at <code><span style="background-color: #FFFF00" ><a href="#">Network Internationa</a></span></code> 
 - 📫 How to reach me habibasayedmohamady21@gmail.com <br> <a href="https://www.linkedin.com/in/habiba-sayed" target="blank">
  <br>
   
